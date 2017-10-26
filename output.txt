@@ -1,0 +1,80 @@
+We have collected the data of 6100 users for which we were able to calculate the following demographics:
+
+
+Profession:
+
+professor 8
+player 15
+actor 14
+artist 45
+consultant 9
+research 7
+electrician 1
+secretary 2
+physician 1
+teacher 17
+pharmacist 1
+developer 7
+accountant 1
+president 15
+manager 16
+comedian 2
+enthusiast 28
+doctor 6
+lawyer 3
+dancer 8
+entertainer 2
+officer 4
+engineer 15
+scientist 5
+student 31
+
+
+Gender:
+
+male 100
+female 126
+
+
+Verification:
+
+Number Of verified users: 77
+Number Of users not verified: 6023
+
+
+Language:
+
+Greek 6
+English 5067
+Vietnamese 5
+Catalan; Valencian 6
+Italian 31
+Basque 1
+Arabic 13
+Czech 4
+Indonesian 18
+Spanish 280
+English UK 113
+Russian 47
+Dutch 19
+Portuguese 155
+English (Australia) 1
+Chinese (Traditional) 4
+Turkish 12
+Chinese (Simplified) 4
+Thai 44
+Romanian 1
+Polish 14
+French 111
+Bulgarian 2
+German 48
+Hungarian 2
+Hindi 3
+Finnish 5
+Danish 2
+Japanese 45
+Serbian 1
+Norwegian 1
+Korean 24
+Swedish 10
+Filipino 1
