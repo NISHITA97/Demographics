@@ -1,6 +1,6 @@
 We have collected the data of 6100 users for which we were able to calculate the following demographics:
 
-
+#list of profession
 Profession:
 
 professor 8
@@ -29,7 +29,7 @@ engineer 15
 scientist 5
 student 31
 
-
+#name of gender
 Gender:
 
 male 100
@@ -41,7 +41,7 @@ Verification:
 Number Of verified users: 77
 Number Of users not verified: 6023
 
-
+#List of languages
 Language:
 
 Greek 6
